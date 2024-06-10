@@ -1,0 +1,6 @@
+[submodule "pokedex-app"]
+	path = pokedex-app
+	url = git@github.com:Lucas-Palomo/pokedex-app.git
+[submodule "pokedex-api"]
+	path = pokedex-api
+	url = git@github.com:Lucas-Palomo/pokedex-api.git
